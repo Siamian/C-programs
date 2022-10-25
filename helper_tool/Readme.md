@@ -1,4 +1,4 @@
-# Helper tool
+# Helper tool (in development ...)
 An application in the console designed to efficiently search for basic information.
 
 # Brief
